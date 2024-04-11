@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a dedicated software engineer with over 3 years of experience in web applications and cross-platform mobile development. Collaboration and effective communication are integral to my work ethos, as I am deeply committed to being a team player.
+I am a dedicated software engineer with over 5 years of experience in web applications and cross-platform mobile development. Collaboration and effective communication are integral to my work ethos, as I am deeply committed to being a team player.
 
 As a problem solver at heart, I take immense pride in writing clean code and adhering to best practices. Being a self-starter, I am highly organized, and responsible, and consistently strive for personal growth and development.
 
